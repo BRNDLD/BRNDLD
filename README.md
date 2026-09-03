@@ -2,9 +2,9 @@
 
 ### Systems Engineering | Software Development, Data Analysis & Artificial Intelligence | Power Platform & Automation
 
-I'm a technology professional based in Colombia with hands-on experience in software development, process automation, data analysis, cloud technologies, and applied AI.
+I build and explore software, data, automation, cloud, and AI solutions using technologies such as Python, Power Platform, Azure, SQL, React, and Flask.
 
-Currently exploring opportunities across software development, data, automation, cloud, and artificial intelligence.
+This profile showcases some of the projects and technologies I have worked with.
 
 ---
 
